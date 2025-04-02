@@ -14,7 +14,7 @@ This repo aims for rewriting twitter's Anomaly Detection algorithms in Python, a
 ## Install
 
 ```
-pip3 install tad
+pip3 install git+https://github.com/fmsnew/AnomalyDetection.git
 ```
 
 ## Usage
