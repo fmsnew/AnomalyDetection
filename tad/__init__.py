@@ -5,7 +5,7 @@
     :license: Apache-2.0, see LICENSE for more details.
 """
 
-__version__ = '0.0.6'
+__version__ = '0.0.7'
 __name__ = 'tad'
 from . import settings
 from .anomaly_detect_ts import anomaly_detect_ts
