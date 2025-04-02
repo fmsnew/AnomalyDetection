@@ -10,10 +10,10 @@ def read_file(filename, cb):
 
 setup(
     name='tad',
-    version='0.0.6',
+    version='0.0.7',
 
     packages=find_packages(),
-    url='https://github.com/Marcnuth/AnomalyDetection',
+    url='https://github.com/fmsnew/AnomalyDetection.git',
 
     author='Marcnuth',
     author_email='hxianxian@gmail.com',
